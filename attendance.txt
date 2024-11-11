@@ -1,0 +1,3 @@
+Attendance Record:
+Name		USN		Time
+========================================
